@@ -27,7 +27,7 @@
   ],
   "license": "Apache-2.0",
   "devDependencies": {
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.4.0",
     "tap": "12.1.0",
     "test-listen-destroy": "1.0.0"
   }
